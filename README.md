@@ -21,8 +21,9 @@ The project demonstrates an end-to-end Natural Language Processing (NLP) pipelin
 ---
 
 ## Project Structure
-sentilytics-amazon/
 
+```
+sentilytics-amazon/
 │
 ├── data/
 │   ├── train_data.csv
@@ -45,7 +46,7 @@ sentilytics-amazon/
 │
 ├── requirements.txt
 └── README.md
-
+```
 
 
 ---
