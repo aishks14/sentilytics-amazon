@@ -211,7 +211,7 @@ If NLTK stopwords are not available, run the following once inside Python:
 ```python
 import nltk
 nltk.download('stopwords')
-
+```
 
 ## Author
 Aishwarya Kumar Singh <br>
